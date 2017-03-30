@@ -1,0 +1,152 @@
+
+atlas.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+game_over
+  rotate: false
+  xy: 1, 55
+  size: 120, 200
+  orig: 120, 200
+  offset: 0, 0
+  index: -1
+main_menu
+  rotate: false
+  xy: 123, 55
+  size: 120, 200
+  orig: 120, 200
+  offset: 0, 0
+  index: -1
+button_replay
+  rotate: false
+  xy: 1, 22
+  size: 77, 31
+  orig: 77, 31
+  offset: 0, 0
+  index: -1
+button_play
+  rotate: false
+  xy: 80, 23
+  size: 68, 30
+  orig: 68, 30
+  offset: 0, 0
+  index: -1
+button_shoot
+  rotate: false
+  xy: 1, 4
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+button_left
+  rotate: false
+  xy: 150, 37
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+button_right
+  rotate: false
+  xy: 35, 4
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+enemy_blue1
+  rotate: false
+  xy: 168, 37
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+enemy_blue2
+  rotate: false
+  xy: 53, 4
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+enemy_green1
+  rotate: false
+  xy: 186, 37
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+enemy_green2
+  rotate: false
+  xy: 204, 37
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+enemy_pink1
+  rotate: false
+  xy: 222, 37
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+enemy_pink2
+  rotate: false
+  xy: 150, 19
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+explosion1
+  rotate: false
+  xy: 168, 19
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+explosion2
+  rotate: false
+  xy: 186, 19
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+explosion3
+  rotate: false
+  xy: 204, 19
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+player1
+  rotate: false
+  xy: 222, 19
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+player2
+  rotate: false
+  xy: 71, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+item
+  rotate: false
+  xy: 245, 247
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+life
+  rotate: false
+  xy: 245, 237
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+player_bullet
+  rotate: false
+  xy: 240, 49
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: -1
